@@ -32,7 +32,7 @@ void setup()
 
   delay(500);
 
-  autoCalibration(40,5000,10);
+  autoCalibration(40,5000,10); //Function depracated in latest ver bc stability concerns
 }
 
 void loop() {
